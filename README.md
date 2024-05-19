@@ -1,5 +1,4 @@
 
-
 <!--
 **Lparres2000/Lparres2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,16 +13,40 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=44D9FF&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Luis+Parres)](https://git.io/typing-svg)
-
+<p align="center"> 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=44D9FF&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Luis+Parres" />
 </p>
 
 <p align="center">
-  
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=44D9FF&center=true&vCenter=true&random=false&width=435&lines=Game+developer+and+3D+Generalist)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=44D9FF&center=true&vCenter=true&random=false&width=435&lines=Game+developer+and+3D+Generalist" />
 </p>
+
+
+<table align="center">
+  <tr >
+    <td align="center" width="200" height="150" style = "border: 0px solid">
+      <a href="https://github.com/ant-design">
+        <img src="https://avatars1.githubusercontent.com/u/12101536?s=200&v=4" width="100" />
+        <br />
+        ant-design
+      </a>
+    </td>
+    <td align="center" width="200" style = "border: 0px solid">
+      <a href="https://github.com/react-component">
+        <img src="https://avatars1.githubusercontent.com/u/9441414?s=200&v=4" width="60" />
+        <br />
+        react-component
+      </a>
+    </td>
+    <td align="center" width="200" style = "border: 0px solid">
+      <a href="https://github.com/actions-cool">
+        <img src="https://avatars1.githubusercontent.com/u/73879334?s=200&v=4" width="60" />
+        <br />
+        <p font-size = "100"> actions-cool </p>
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
 
