@@ -1,24 +1,17 @@
 
-<!--
-**Lparres2000/Lparres2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
 <p align="center"> 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=1000&color=44D9FF&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Luis+Parres" />
+<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1&pause=1000&color=44D9FF&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Luis+Parres" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=4000&color=44D9FF&center=true&vCenter=true&random=false&width=435&lines=Game+developer+and+3D+Generalist" />
+<img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=25&duration=2000&pause=4000&color=44D9FF&center=true&vCenter=true&random=false&width=435&lines=Game+developer+and+3D+Generalist" />
+</p>
+
+<p align="center">
+<a href="">
+    <img src="./assets/svg/myitchio.svg" width="80" height="80" alt="Itch.io" />
+</a>
 </p>
 
 ---
