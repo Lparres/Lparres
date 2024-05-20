@@ -80,10 +80,23 @@
 <br>
 <div>
     <a><img height="50" src="./assets/icons/icon_photoshop.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a><img height="50" src="./assets/icons/icon_illustrator.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/icons/icon_illustrator.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a><img height="50" src="./assets/icons/icon_premiere.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a><img height="50" src="./assets/icons/icon_aftereffects.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a><img height="50" src="./assets/icons/icon_indesign.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <br>
+
+## :floppy_disk:&nbsp; My Best Repositories
+
+<br>
+
+<p align="center">
+  <a href="https://github.com/Lparres2000/JuegoPVLI" title="Survival Spectrum"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres2000&repo=SurvivalSpectrum&theme=react&border_color=61dafb&border_radius=10"></a>
+    <a href="https://github.com/Lparres2000/Lparres2000" title="Profile README"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres2000&repo=Lparres2000&theme=react&border_color=61dafb&border_radius=10"></a>
+</p>
+
+<!--
+<a href="https://github.com/Lparres2000?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+-->
