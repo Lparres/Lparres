@@ -14,13 +14,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center"> 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1&pause=1000&color=44D9FF&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Luis+Parres" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=1&pause=1000&color=44D9FF&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Luis+Parres" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=44D9FF&center=true&vCenter=true&random=false&width=435&lines=Game+developer+and+3D+Generalist" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=4000&color=44D9FF&center=true&vCenter=true&random=false&width=435&lines=Game+developer+and+3D+Generalist" />
 </p>
 
+---
 
 <p align="center">
 
