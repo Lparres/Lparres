@@ -10,15 +10,8 @@
 </p>
 
 <p align="center">
-
-
-<a href="">
-    <img src="./assets/icons/mywebsite.svg" align="center" height="100" alt="Website" />
-</a>
-<a href="">
-    <img src="./assets/icons/myitchio.svg" align="center" height="100" alt="Itch.io" />
-</a>
-    
+<a href=""><img src="./assets/icons/mywebsite.svg" align="center" height="100" alt="Website" /></a>
+<a href=""><img src="./assets/icons/myitchio.svg" align="center" height="100" alt="Itch.io" /></a>
 </p>
 
 <br>
