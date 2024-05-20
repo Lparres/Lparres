@@ -88,13 +88,16 @@
 
 <br>
 
-## :floppy_disk:&nbsp; My Best Repositories
+## :book:&nbsp; My Best Repositories
 
 <br>
 
 <p align="center">
-  <a href="https://github.com/Lparres2000/JuegoPVLI" title="Survival Spectrum"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres2000&repo=SurvivalSpectrum&theme=react&border_color=61dafb&border_radius=10"></a>
-    <a href="https://github.com/Lparres2000/Lparres2000" title="Profile README"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres2000&repo=Lparres2000&theme=react&border_color=61dafb&border_radius=10"></a>
+    
+<a href="https://github.com/Lparres2000/JuegoPVLI" title="Survival Spectrum"><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres2000&repo=SurvivalSpectrum&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&"></a>
+
+<a href="https://github.com/Lparres2000/Lparres2000" title="Profile README"><img align="right" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres2000&repo=Lparres2000&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&"></a>
+
 </p>
 
 <!--
