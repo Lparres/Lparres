@@ -1,5 +1,6 @@
 
 <br>
+
 <p align="center"> 
 <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=40&duration=1&pause=1000&color=44D9FF&center=true&vCenter=true&repeat=false&random=false&width=435&lines=Luis+Parres" />
 </p>
@@ -8,10 +9,18 @@
 <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=25&duration=2000&pause=4000&color=44D9FF&center=true&vCenter=true&random=false&width=435&lines=Game+developer+and+3D+Generalist" />
 </p>
 
+<br>
+
 <p align="center">
+
 <a href="">
-    <img src="./assets/svg/myitchio.svg" width="80" height="80" alt="Itch.io" />
-</a>
+<img src="./assets/svg/mywebsite.svg" height="80" alt="Website" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<a href="">
+<img src="./assets/svg/myitchio.svg" height="80" alt="Itch.io" />
+</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    
 </p>
 
 ---
