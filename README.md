@@ -13,13 +13,14 @@
 
 <p align="center">
 
-<a href="">
-<img src="./assets/svg/mywebsite.svg" height="80" alt="Website" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="">
-<img src="./assets/svg/myitchio.svg" height="80" alt="Itch.io" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="./assets/svg/mywebsite.svg" height="80" alt="Website" />
+</a>
+
+<a href="">
+    <img src="./assets/svg/myitchio.svg" height="80" alt="Itch.io" />
+</a>
     
 </p>
 
