@@ -13,10 +13,10 @@
 
 
 <a href="">
-    <img src="./assets/svg/mywebsite.svg" align="center" height="100" alt="Website" />
+    <img src="./assets/icons/mywebsite.svg" align="center" height="100" alt="Website" />
 </a>
 <a href="">
-    <img src="./assets/svg/myitchio.svg" align="center" height="100" alt="Itch.io" />
+    <img src="./assets/icons/myitchio.svg" align="center" height="100" alt="Itch.io" />
 </a>
     
 </p>
@@ -26,8 +26,8 @@
 ## :space_invader:&nbsp; About Me
 
 <table align="right" border="5px">
- <tr><td><a href="README_es.md"><img src="./assets/svg/spainflag.svg" height="13">Español</a></td></tr>
- <tr><td><a href="README.md"><img src="./assets/svg/ukflag.svg" height="13">English</a></td></tr>
+ <tr><td><a href="README_es.md"><img src="./assets/icons/spainflag.svg" height="13">Español</a></td></tr>
+ <tr><td><a href="README.md"><img src="./assets/icons/ukflag.svg" height="13">English</a></td></tr>
 </table>
 
 - :wave: I'm a 23 yo Game Developer from Madrid, Spain.
@@ -51,19 +51,22 @@
 ## 🛠&nbsp; Skills & Technologies
 <br>
 <div>
-    <a><img height="50" src="./assets/svg/clogo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a><img height="50" src="./assets/svg/cpplogo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a><img height="50" src="./assets/svg/csharplogo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a><img height="50" src="./assets/svg/jslogo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a><img height="50" src="./assets/svg/htmllogo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a><img height="50" src="./assets/svg/csslogo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/icons/icon_c.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/icons/icon_cpp.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/icons/icon_csharp.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/icons/icon_js.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/icons/icon_html.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/icons/icon_css.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 <br>
 <div>
-    <a><img height="50" src="./assets/svg/unitylogo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a><img height="50" src="./assets/svg/unreallogo.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a><img height="50" src="./assets/svg/sdllogo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a><img height="50" src="./assets/svg/opengllogo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a><img height="50" src="./assets/svg/phaserlogo.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/icons/icon_unity.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/icons/icon_unreal.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/icons/icon_sdl.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/icons/icon_opengl.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/icons/icon_phaser.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
+<br>
+
+## :art:&nbsp; Art Software
