@@ -70,3 +70,20 @@
 <br>
 
 ## :art:&nbsp; Art Software
+
+<br>
+<div>
+    <a><img height="50" src="./assets/icons/icon_maya.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/icons/icon_blender.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/icons/icon_substancepainter.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<br>
+<div>
+    <a><img height="50" src="./assets/icons/icon_photoshop.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/icons/icon_illustrator.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/icons/icon_premiere.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/icons/icon_aftereffects.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/icons/icon_indesign.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+
+<br>
