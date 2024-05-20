@@ -43,11 +43,27 @@
 
   <a href="https://github.com/Lparres2000/"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/luisparres/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:lparres2000@gmail.com?subject=Hello%20Luis,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:lparres2000@gmail.com?subject=Hello%20Luis,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 
 ## 🛠&nbsp; Skills & Technologies
-
-<a><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+<div>
+    <a><img height="50" src="./assets/svg/clogo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/svg/cpplogo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/svg/csharplogo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/svg/jslogo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/svg/htmllogo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/svg/csslogo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
+<br>
+<div>
+    <a><img height="50" src="./assets/svg/unitylogo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/svg/unreallogo.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/svg/sdllogo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/svg/opengllogo.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a><img height="50" src="./assets/svg/phaserlogo.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</div>
 
