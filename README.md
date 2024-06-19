@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-<a href=""><img src="./assets/icons/mywebsite.svg" align="center" height="100" alt="Website" /></a>
-<a href=""><img src="./assets/icons/myitchio.svg" align="center" height="100" alt="Itch.io" /></a>
+<a href="https://lparres.github.io"><img src="./assets/icons/mywebsite.svg" align="center" height="100" alt="Website" /></a>
+<a href="https://lparres.itch.io"><img src="./assets/icons/myitchio.svg" align="center" height="100" alt="Itch.io" /></a>
 </p>
 
 <br>
@@ -34,10 +34,10 @@
 
 ***Lparres2000@gmail.com***
 
-  <a href="https://github.com/Lparres/"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/luisparres/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:lparres2000@gmail.com?subject=Hello%20Luis,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Lparres/"><img src="https://img.shields.io/badge/Lparres-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/luisparres/"><img src="https://img.shields.io/badge/LuisParres-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:lparres2000@gmail.com?subject=Hello%20Luis,%20From%20Github"><img src="https://img.shields.io/badge/Lparres2000@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href=""><img src="https://img.shields.io/badge/Lparres-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 <br>
 
