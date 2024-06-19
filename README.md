@@ -34,7 +34,7 @@
 
 ***Lparres2000@gmail.com***
 
-  <a href="https://github.com/Lparres2000/"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Lparres/"><img src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/luisparres/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:lparres2000@gmail.com?subject=Hello%20Luis,%20From%20Github"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href=""><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -87,7 +87,7 @@
 
 <p align="center">
     
-<a href="https://github.com/Lparres2000/JuegoPVLI" title="Survival Spectrum"><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres2000&repo=SurvivalSpectrum&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&"></a>
+<a href="https://github.com/Lparres/JuegoPVLI" title="Survival Spectrum"><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres&repo=SurvivalSpectrum&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&"></a>
 
 <a href="https://github.com/UCM-FDI-DISIA/LoreIpsum" title="Profile README"><img align="right" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=UCM-FDI-DISIA&repo=LoreIpsum&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&"></a>
 
@@ -97,11 +97,11 @@
 <br>
 
  <!--
-<a href="https://github.com/Lparres2000/Lparres2000" title="Profile README"><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres2000&repo=Lparres2000&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&"></a>
+<a href="https://github.com/Lparres/Lparres" title="Profile README"><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres&repo=Lparres&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&"></a>
 -->
 
 </p>
 
 <!--
-<a href="https://github.com/Lparres2000?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/Lparres?tab=repositories"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 -->
