@@ -89,27 +89,27 @@
 
 <br>
 
-
-<a href="https://github.com/Lparres/JuegoPVLI" title="Survival Spectrum"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres&repo=SurvivalSpectrum&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&"></a>
-
-<a href="https://github.com/Lparres/JuegoPVLI" title="Animacion Procedural"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres&repo=AnimacionProcedural&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&"></a>
-
-<a href="https://github.com/UCM-FDI-DISIA/LoreIpsum" title="Profile README"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UCM-FDI-DISIA&repo=LoreIpsum&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&"></a>
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=buefy" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=anuraghazra.github.io&theme=buefy" />
+<a href="https://github.com/Lparres/SurvivalSpectrum" title="Survival Spectrum">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres&repo=SurvivalSpectrum&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&">
 </a>
 
-<br>
-<br>
-<br>
+<a href="https://github.com/Lparres/AnimacionProcedural" title="Animacion Procedural">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres&repo=AnimacionProcedural&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&">
+</a>
 
- <!--
-<a href="https://github.com/Lparres/Lparres" title="Profile README"><img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres&repo=Lparres&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&"></a>
--->
+<br />
+
+<a href="https://github.com/Lparres/Lparres" title="Profile README">
+ <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres&repo=Lparres&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&">
+</a>
+
+<a href="https://github.com/UCM-FDI-DISIA/LoreIpsum" title="Profile README">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UCM-FDI-DISIA&repo=LoreIpsum&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&">
+</a>
+
+
+<br />
+
 
 
 <!--
