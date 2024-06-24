@@ -93,9 +93,9 @@
 
 <a href="https://github.com/Lparres/JuegoPVLI" title="Survival Spectrum"><img align="left" width="400" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres&repo=SurvivalSpectrum&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&"></a>
 
-<a href="https://github.com/UCM-FDI-DISIA/LoreIpsum" title="Profile README"><img align="right" width="400" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=UCM-FDI-DISIA&repo=LoreIpsum&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&"></a>
-
 <a href="https://github.com/Lparres/JuegoPVLI" title="Animacion Procedural"><img align="left" width="400" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres&repo=AnimacionProcedural&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&"></a>
+
+<a href="https://github.com/UCM-FDI-DISIA/LoreIpsum" title="Profile README"><img align="right" width="400" height="180" src="https://github-readme-stats.vercel.app/api/pin/?username=UCM-FDI-DISIA&repo=LoreIpsum&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&"></a>
 
 <br>
 <br>
