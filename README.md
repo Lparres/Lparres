@@ -9,6 +9,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Josefin+Sans&size=25&duration=2000&pause=4000&color=44D9FF&center=true&vCenter=true&random=false&width=435&lines=Game+developer+and+3D+Generalist" />
 </p>
 
+<br>
+
 <p align="center">
 <a href="https://lparres.github.io"><img src="./assets/icons/mywebsite.svg" align="center" height="100" alt="Website" /></a>
 <a href="https://lparres.itch.io"><img src="./assets/icons/myitchio.svg" align="center" height="100" alt="Itch.io" /></a>
@@ -18,10 +20,12 @@
 
 ## :space_invader:&nbsp; About Me
 
+ <!--
 <table align="right" border="5px">
  <tr><td><a href="README_es.md"><img src="./assets/icons/spainflag.svg" height="13">Español</a></td></tr>
  <tr><td><a href="README.md"><img src="./assets/icons/ukflag.svg" height="13">English</a></td></tr>
 </table>
+-->
 
 - :wave: I'm a 23 yo Game Developer from Madrid, Spain.
 - :books: I'm currently studying Video Game Development at the Complutense University of Madrid.
