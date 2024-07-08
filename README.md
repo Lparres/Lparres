@@ -18,7 +18,7 @@
 
 <br>
 
-## :space_invader:&nbsp; About Me
+## :space_invader:&nbsp; About me
 
  <!--
 <table align="right" border="5px">
@@ -46,7 +46,9 @@
 <br>
 
 ## 🛠&nbsp; Skills & Technologies
+
 <br>
+
 <div>
     <a><img height="50" src="./assets/icons/icon_c.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a><img height="50" src="./assets/icons/icon_cpp.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -55,7 +57,9 @@
     <a><img height="50" src="./assets/icons/icon_html.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a><img height="50" src="./assets/icons/icon_css.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
 <br>
+
 <div>
     <a><img height="50" src="./assets/icons/icon_unity.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a><img height="50" src="./assets/icons/icon_unreal.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -69,12 +73,15 @@
 ## :art:&nbsp; Art Software
 
 <br>
+
 <div>
     <a><img height="50" src="./assets/icons/icon_maya.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a><img height="50" src="./assets/icons/icon_blender.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a><img height="50" src="./assets/icons/icon_substancepainter.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
+
 <br>
+
 <div>
     <a><img height="50" src="./assets/icons/icon_photoshop.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a><img height="50" src="./assets/icons/icon_illustrator.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -90,25 +97,25 @@
 <br>
 
 <a href="https://github.com/Lparres/SurvivalSpectrum" title="Survival Spectrum">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres&repo=SurvivalSpectrum&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&">
+ <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres&repo=SurvivalSpectrum&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&">
 </a>
 
 <a href="https://github.com/Lparres/AnimacionProcedural" title="Animacion Procedural">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres&repo=AnimacionProcedural&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&">
 </a>
 
-<br />
-
+<br>
+<br>
+ 
 <a href="https://github.com/Lparres/Lparres" title="Profile README">
  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=Lparres&repo=Lparres&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&">
 </a>
 
-<a href="https://github.com/UCM-FDI-DISIA/LoreIpsum" title="Profile README">
+<a href="https://github.com/UCM-FDI-DISIA/LoreIpsum" title="Lore Ipsum">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UCM-FDI-DISIA&repo=LoreIpsum&theme=react&border_color=61dafb&border_radius=10&icon_color=F8D866&">
 </a>
 
-
-<br />
+<br>
 
 
 
