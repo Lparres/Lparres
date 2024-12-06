@@ -27,7 +27,7 @@
 </table>
 -->
 
-- :wave: I'm a 23 yo Game Developer from Madrid, Spain.
+- :wave: I'm a 24 yo Game Developer from Madrid, Spain.
 - :books: I'm currently studying Video Game Development at the Complutense University of Madrid.
 - :art: I also have a background in 3D art and graphic design
 - :balloon: I love coding for fun and making toy proyects
